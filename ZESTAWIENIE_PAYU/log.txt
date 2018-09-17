@@ -1,0 +1,448 @@
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+Program Zestawienia_PayU started, version b180721.
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-05-01_2018-05-31.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-14_2018-07-20.csv ... 
+
+ZestawieniePayU.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_11501445_2018-07-01_2018-07-31.csv ... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-07-01_2018-07-31.csv ... 
+
+ZestawieniePayU_shoplet-pl.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-07-01_2018-07-31.csv ... 
+
+ZestawieniePayU_shoplet-pl.xlsx is not CSV, skipping... 
+
+ZestawieniePayU_www-shoplet-pl.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_4146518_2018-08-01_2018-08-31.csv ... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_7413094_2018-08-01_2018-08-31.csv ... 
+
+ZestawieniePayU_www-shoplet-pl.xlsx is not CSV, skipping... 
+
+ *** Program Zestawienia_PayU uruchomiony, wersja b180721. ***
+
+
+Processing file np_incoming_11501445_2018-08-01_2018-08-31.csv ... 
+
+ZestawieniePayU_www-4dell-pl.xlsx is not CSV, skipping... 
+
+ZestawieniePayU_www-shoplet-pl.xlsx is not CSV, skipping... 
+
